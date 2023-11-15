@@ -1,0 +1,18 @@
+GET http://localhost:8080/hello/getHello
+Accept: application/json
+###
+
+GET http://localhost:8080/ebook/getList?name=鱼
+Accept: application/json
+###
+
+GET http://localhost:8080/category/allList
+Accept: application/json
+###
+
+GET http://localhost:8080/ebook/getEbookListByPage?size=101&page=1
+Accept: application/json
+
+###
+GET http://localhost:8080/doc/allList
+Accept: application/json

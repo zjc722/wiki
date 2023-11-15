@@ -1,0 +1,83 @@
+2023-10-16 19:06:38.820 INFO  com.gec.wiki.WikiApplication                      :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_352 on DESKTOP-K9CQSV4 with PID 82464 (E:\nanhuaclass3\wiki\target\classes started by ww in E:\nanhuaclass3\wiki)
+2023-10-16 19:06:38.824 INFO  com.gec.wiki.WikiApplication                      :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-10-16 19:06:38.876 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-16 19:06:38.876 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-16 19:06:39.961 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-10-16 19:06:39.969 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-16 19:06:39.969 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-16 19:06:39.969 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.69]
+2023-10-16 19:06:40.047 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-16 19:06:40.047 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1168 ms
+2023-10-16 19:06:42.268 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-10-16 19:06:42.290 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-10-16 19:06:42.310 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-16 19:06:42.323 INFO  com.gec.wiki.WikiApplication                      :61   [32m                  [0;39m Started WikiApplication in 4.017 seconds (JVM running for 8.189)
+2023-10-16 19:06:42.328 INFO  com.gec.wiki.WikiApplication                      :18   [32m                  [0;39m 启动成功！！！
+2023-10-16 19:06:42.329 INFO  com.gec.wiki.WikiApplication                      :19   [32m                  [0;39m 地址：127.0.0.1:8080
+2023-10-16 19:06:51.979 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-16 19:06:51.980 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-16 19:06:51.981 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-16 19:10:55.431 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2023-10-16 19:10:55.639 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2023-10-16 20:21:19.309 INFO  com.gec.wiki.WikiApplication                      :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_221 on LAPTOP-LAT7E60S with PID 21384 (C:\Users\庄嘉灿\Desktop\wiki\target\classes started by 庄嘉灿 in C:\Users\庄嘉灿\Desktop\wiki)
+2023-10-16 20:21:19.311 INFO  com.gec.wiki.WikiApplication                      :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-10-16 20:21:19.382 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-16 20:21:19.383 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-16 20:21:20.799 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-10-16 20:21:20.810 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-16 20:21:20.811 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-16 20:21:20.811 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.69]
+2023-10-16 20:21:20.951 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-16 20:21:20.952 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1569 ms
+2023-10-16 20:21:22.216 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-10-16 20:21:22.234 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-10-16 20:21:22.251 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-16 20:21:22.260 INFO  com.gec.wiki.WikiApplication                      :61   [32m                  [0;39m Started WikiApplication in 4.228 seconds (JVM running for 6.214)
+2023-10-16 20:21:22.262 INFO  com.gec.wiki.WikiApplication                      :18   [32m                  [0;39m 启动成功！！！
+2023-10-16 20:21:22.263 INFO  com.gec.wiki.WikiApplication                      :19   [32m                  [0;39m 地址：127.0.0.1:8080
+2023-10-16 20:21:27.832 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-16 20:21:27.832 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-16 20:21:27.834 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-16 20:21:27.971 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2023-10-16 20:21:28.511 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2023-10-16 20:32:28.509 INFO  com.zaxxer.hikari.HikariDataSource                :350  [32m                  [0;39m HikariPool-1 - Shutdown initiated...
+2023-10-16 20:32:28.528 INFO  com.zaxxer.hikari.HikariDataSource                :352  [32m                  [0;39m HikariPool-1 - Shutdown completed.
+2023-10-16 20:32:31.859 INFO  com.gec.wiki.WikiApplication                      :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_221 on LAPTOP-LAT7E60S with PID 27008 (C:\Users\庄嘉灿\Desktop\wiki\target\classes started by 庄嘉灿 in C:\Users\庄嘉灿\Desktop\wiki)
+2023-10-16 20:32:31.862 INFO  com.gec.wiki.WikiApplication                      :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-10-16 20:32:31.925 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-16 20:32:31.925 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-16 20:32:33.064 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-10-16 20:32:33.078 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-16 20:32:33.078 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-16 20:32:33.078 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.69]
+2023-10-16 20:32:33.169 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-16 20:32:33.170 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1244 ms
+2023-10-16 20:32:34.309 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-10-16 20:32:34.323 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-10-16 20:32:34.336 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-16 20:32:34.345 INFO  com.gec.wiki.WikiApplication                      :61   [32m                  [0;39m Started WikiApplication in 3.051 seconds (JVM running for 4.135)
+2023-10-16 20:32:34.349 INFO  com.gec.wiki.WikiApplication                      :18   [32m                  [0;39m 启动成功！！！
+2023-10-16 20:32:34.349 INFO  com.gec.wiki.WikiApplication                      :19   [32m                  [0;39m 地址：127.0.0.1:8080
+2023-10-16 20:32:34.551 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-10-16 20:32:34.551 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2023-10-16 20:32:34.552 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2023-10-16 20:32:34.647 INFO  com.zaxxer.hikari.HikariDataSource                :110  [32m                  [0;39m HikariPool-1 - Starting...
+2023-10-16 20:32:35.182 INFO  com.zaxxer.hikari.HikariDataSource                :123  [32m                  [0;39m HikariPool-1 - Start completed.
+2023-10-16 21:10:12.925 INFO  com.zaxxer.hikari.HikariDataSource                :350  [32m                  [0;39m HikariPool-1 - Shutdown initiated...
+2023-10-16 21:10:12.960 INFO  com.zaxxer.hikari.HikariDataSource                :352  [32m                  [0;39m HikariPool-1 - Shutdown completed.
+2023-10-16 21:10:16.323 INFO  com.gec.wiki.WikiApplication                      :55   [32m                  [0;39m Starting WikiApplication using Java 1.8.0_221 on LAPTOP-LAT7E60S with PID 31416 (C:\Users\庄嘉灿\Desktop\wiki\target\classes started by 庄嘉灿 in C:\Users\庄嘉灿\Desktop\wiki)
+2023-10-16 21:10:16.326 INFO  com.gec.wiki.WikiApplication                      :631  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2023-10-16 21:10:16.385 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-10-16 21:10:16.385 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :255  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-10-16 21:10:17.419 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :108  [32m                  [0;39m Tomcat initialized with port(s): 8080 (http)
+2023-10-16 21:10:17.429 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8080"]
+2023-10-16 21:10:17.430 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2023-10-16 21:10:17.431 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/9.0.69]
+2023-10-16 21:10:17.580 INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2023-10-16 21:10:17.582 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :292  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1196 ms
+2023-10-16 21:10:18.848 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2023-10-16 21:10:18.863 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8080"]
+2023-10-16 21:10:18.878 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :220  [32m                  [0;39m Tomcat started on port(s): 8080 (http) with context path ''
+2023-10-16 21:10:18.888 INFO  com.gec.wiki.WikiApplication                      :61   [32m                  [0;39m Started WikiApplication in 3.283 seconds (JVM running for 4.631)
+2023-10-16 21:10:18.890 INFO  com.gec.wiki.WikiApplication                      :18   [32m                  [0;39m 启动成功！！！
+2023-10-16 21:10:18.890 INFO  com.gec.wiki.WikiApplication                      :19   [32m                  [0;39m 地址：127.0.0.1:8080
